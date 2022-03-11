@@ -1,0 +1,1 @@
+from simple_maze.envs.simple_maze_env import SimpleMazeEnv
